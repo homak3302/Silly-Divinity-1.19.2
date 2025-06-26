@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i_i",
+    "EPE",
+    "W_W"
+  ],
+  "key": {
+    "i": {
+      "item": "silly-divinity:tungsten_ingot"
+    },
+    "_": {
+      "item": "minecraft:polished_deepslate_slab"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "P": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "silly-divinity:hoverstone",
+    "count": 1
+  }
+}

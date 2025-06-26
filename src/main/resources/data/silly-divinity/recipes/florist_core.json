@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Pi",
+    "PGM",
+    "iM#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:potion"
+    },
+    "P": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "i": {
+      "item": "silly-divinity:tungsten_ingot"
+    },
+    "G": {
+      "item": "minecraft:glow_berries"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "silly-divinity:florist_core",
+    "count": 1
+  }
+}

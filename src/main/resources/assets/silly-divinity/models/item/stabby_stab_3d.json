@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "silly-divinity:item/stabby_stab"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 15, -2.5],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 15.25, -2],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-30, -90, 0],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -30],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90.5],
+			"translation": [-2.75, 4.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

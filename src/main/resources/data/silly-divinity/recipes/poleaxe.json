@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " iD",
+    " Bi",
+    "/  "
+  ],
+  "key": {
+    "i": {
+      "item": "silly-divinity:tungsten_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    },
+    "B": {
+      "item": "minecraft:diamond_axe"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "silly-divinity:poleaxe",
+    "count": 1
+  }
+}

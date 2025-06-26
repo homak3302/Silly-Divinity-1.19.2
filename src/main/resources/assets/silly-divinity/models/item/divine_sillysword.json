@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "silly-divinity:item/divine_sillysword_gui"
+  }
+}

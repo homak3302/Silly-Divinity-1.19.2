@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.homak.sillydivinity.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "HoverStoneMixin",
+    "ItemRendererAccessor",
+    "ItemRendererMixin",
+    "ModelLoaderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ]
+}

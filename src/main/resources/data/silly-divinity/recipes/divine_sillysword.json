@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " in",
+    "iDi",
+    "Ni "
+  ],
+  "key": {
+    "i": {
+      "item": "silly-divinity:tungsten_ingot"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "item": "silly-divinity:divine_sillysword",
+    "count": 1
+  }
+}

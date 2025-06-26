@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#N#",
+    "NFN",
+    "TBT"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_pearl"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "F": {
+      "item": "minecraft:firework_rocket"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "B": {
+      "item": "minecraft:firework_star"
+    }
+  },
+  "result": {
+    "item": "silly-divinity:dash_rune",
+    "count": 1
+  }
+}
